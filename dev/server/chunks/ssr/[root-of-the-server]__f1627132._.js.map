@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file:///workspaces/carpoolcanarias/carpool-canarias/app/page.tsx"],"sourcesContent":["import Link from 'next/link'\n\nexport default function Footer() {\n  return (\n    <footer className=\"border-t border-gray-200 bg-white mt-auto\">\n      <div className=\"max-w-7xl mx-auto px-4 py-6 flex flex-wrap justify-center gap-6\">\n        <Link href=\"/about\" className=\"text-gray-400 hover:text-blue-600 text-sm transition\">Acerca de nosotros</Link>\n        <Link href=\"/seguridad\" className=\"text-gray-400 hover:text-blue-600 text-sm transition\">Viaja seguro/a</Link>\n      </div>\n    </footer>\n  )\n}"],"names":[],"mappings":";;;;;AAAA;;;AAEe,SAAS;IACtB,qBACE,8OAAC;QAAO,WAAU;kBAChB,cAAA,8OAAC;YAAI,WAAU;;8BACb,8OAAC,0LAAI;oBAAC,MAAK;oBAAS,WAAU;8BAAuD;;;;;;8BACrF,8OAAC,0LAAI;oBAAC,MAAK;oBAAa,WAAU;8BAAuD;;;;;;;;;;;;;;;;;AAIjG"}}]
+}
